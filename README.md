@@ -1,1 +1,1 @@
-# getting-started-with-gemini-api
+# getting-started-with-gemini-ai-api
