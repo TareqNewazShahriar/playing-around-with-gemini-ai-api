@@ -2,7 +2,7 @@ require('dotenv').config()
 const request = require('request')
 
 const article = `If you can prove a scientific theory wrong then this is a great achievement for humans and the science community. Humans will get rid of a wrong theory. That will save huge time and money on a mistake. They will search for the correct explanation. It is your contribution to the whole of humanity. If you are pondering upon a scientific theory and ask,"if animal evolution is a fact, then where is the species that is between monkey and chimpanzee?" That is a good question to investigate. And if it is a good question to test, then test it.
-If someone has certain beliefs and he is pondering upon it to prove evolution wrong, then there's no use to engage you. Nothing but conviction to your ideology will satisfy you.`
+If someone has certain beliefs and he is pondering upon it to prove evolution wrong, then there's no use to engage in a  discussion with him. Nothing but only conviction to his ideology will satisfy him.`
 const prompt = `Please suggest a simple title for the following article; also suggest types, categories and extract keywords; out of 10, give an overall rating and clarity rating; also do a criticism of the article. Do NOT respond in markdown, please respond in parsable JSON.
 Here's the article:
 ${article}`
